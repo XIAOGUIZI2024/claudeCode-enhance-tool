@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+*.swp
+*.swo
+
+# Claude Code
+CLAUDE.md
